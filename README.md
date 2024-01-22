@@ -14,3 +14,4 @@
 🤝 SoftSkills: I'ḿ proactive, innovative, versatile, agile, and possess excellent planning skills
 
 🎯 Other interesting skills: I can knit scarfs & I don't fail a free throw 🏀.
+.
