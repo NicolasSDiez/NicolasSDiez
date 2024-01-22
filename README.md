@@ -7,7 +7,7 @@
 </p>
 
 
-  <img src="https://images.app.goo.gl/R3DfRMpSTU7DFFSK7" alt="GIF" width="50%">
+  0_IjwqslkWZDHTMK9Y.gif
 
 
 
