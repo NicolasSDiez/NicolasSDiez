@@ -7,6 +7,6 @@
 </p>
 
 <p align="rigth">
-  <img src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" alt="GIF" width="70%">
+  <img src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" alt="GIF" width="30%">
 </p>
 
