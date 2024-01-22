@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="end">
   <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" width="30%">
 </p>
 
