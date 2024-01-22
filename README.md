@@ -8,9 +8,9 @@
 
 <p align="end">
   <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" width="30%">
-</p>
 
 Texto a la izquierda del GIF.
+</p>
 
 
   
