@@ -5,3 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=500&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Web+Full+Stack+%F0%9F%90%A6" alt="Typing SVG" />
   </a>
 </p>
+
+![GIF](https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif)
+
