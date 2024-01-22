@@ -6,8 +6,8 @@
   </a>
 </p>
 
-<p align="center">
+
   <img src="[https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif](https://images.app.goo.gl/R3DfRMpSTU7DFFSK7)https://images.app.goo.gl/R3DfRMpSTU7DFFSK7" alt="GIF" width="50%">
-</p>
+
 
 
