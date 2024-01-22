@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Raleway&weight=500&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Web+Full+Stack+%F0%9F%90%A6](https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif)" alt="Typing SVG" />
+    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Web+Full+Stack+%F0%9F%90%A6)](https://git.io/typing-svg)" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="end">
-  <img src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" alt="GIF" width="30%">
+  <img src="[https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif](https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif)https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif" alt="GIF" width="30%">
 </p>
 
