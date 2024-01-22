@@ -6,7 +6,12 @@
   </a>
 </p>
 
-![GIF](0_IjwqslkWZDHTMK9Y.gif)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif" alt="GIF" width="60%">
+</p>
+
+Texto a la izquierda del GIF.
+
 
   
 
