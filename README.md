@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif" alt="Segundo GIF" width="50%">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif" alt="GIF" width="50%">
 </p>
