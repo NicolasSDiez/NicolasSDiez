@@ -7,5 +7,5 @@
 </p>
 
 <p align="end">
-  <img src="[https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif](https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif)https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif" alt="GIF" width="30%">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif" alt="GIF" width="30%">
 </p>
