@@ -11,10 +11,7 @@
   <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" width="40%">
 </p>
 </picture>
-  <p align="start"> Texto a la izquierda del GIF.
-Texto a la izquierda del GIF.
-Texto a la izquierda del GIF.
-  <p/>
+<picture> <img align="right" src="0_IjwqslkWZDHTMK9Y.gif" width = 250px></picture>
   
 .
 
