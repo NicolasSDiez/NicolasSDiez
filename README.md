@@ -12,7 +12,10 @@
 </p>
 Texto a la izquierda del GIF.
 
-
+<div style="display: grid; grid-template-columns: 40% auto;">
+  <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" alt="GIF" style="width: 100%;">
+  <p style="text-align: left; padding-left: 10px;">Texto a la izquierda del GIF. mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una personamucho texto sobre una personamucho texto sobre una personamucho texto sobre una persona</p>
+</div>
   
 
 
