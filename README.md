@@ -21,9 +21,9 @@ Texto a la izquierda del GIF.
 
 Texto a la izquierda del GIF.
 
-<div style="display: grid; grid-template-columns: 40% auto;">
-  <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" alt="GIF" style="width: 100%;">
-  <p style="text-align: left; padding-left: 10px;">Texto a la izquierda del GIF. mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una persona mucho texto sobre una personamucho texto sobre una personamucho texto sobre una personamucho texto sobre una persona</p>
+<div style="display: flex; align-items: center;">
+  <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" style="width: 40%;">
+  <p style="flex: 1; text-align: left; margin-left: 10px;">Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF.</p>
 </div>
   
 
