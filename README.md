@@ -30,10 +30,15 @@
 <br>
 
 ## ¡Conectemos! 🤝
-<a href="https://linkedin.com/in/nicolas-sdiez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="nicolas-sdiez" height="50" width="50" /></a>
+<div>
+  <a href="https://linkedin.com/in/nicolas-sdiez/" target="blank" style="display: inline-block; margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="nicolas-sdiez" height="50" width="50" />
+  </a>
 
-
-<a href="mailto:nicolas.diez1s@gmail.com" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/03/icone-gmail.png" alt=gmail height="50" width="50" />
+  <a href="mailto:nicolas.diez1s@gmail.com" target="_blank" style="display: inline-block;">
+    <img src="https://icones.pro/wp-content/uploads/2021/03/icone-gmail.png" alt="gmail" height="50" width="50" />
+  </a>
+</div>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
