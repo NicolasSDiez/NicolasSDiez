@@ -22,10 +22,10 @@ Texto a la izquierda del GIF.
 Texto a la izquierda del GIF.
 
 <div style="display: flex; align-items: center;">
-  <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" style="width: 40%;">
-  <p style="flex: 1; text-align: left; margin-left: 10px;">Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF.</p>
+  <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" alt="GIF" style="width: 40%;">
+  <p style="margin-left: 10px;">Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF Texto a la izquierda del GIF
+    Texto a la izquierda del GIF Texto a la izquierda del GIF.</p>
 </div>
-  
 
 
 
