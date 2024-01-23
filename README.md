@@ -6,15 +6,16 @@
   </a>
 </p>
 
-<div>
-<p align="center">
+<picture>
+<p align="rigth">
   <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" width="40%">
 </p>
+</picture>
   <p align="start"> Texto a la izquierda del GIF.
 Texto a la izquierda del GIF.
 Texto a la izquierda del GIF.
   <p/>
-  </div>
+  
 .
 
 <div style="grid grid-colum-2;">
