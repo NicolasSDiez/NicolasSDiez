@@ -10,18 +10,12 @@
 <p align="end">
   <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" width="30%">
 </p>
-  <pTexto a la izquierda del GIF.
+  <p Texto a la izquierda del GIF.
 Texto a la izquierda del GIF.
 Texto a la izquierda del GIF.
   />
   </div>
-Texto a la izquierda del GIF.
-Texto a la izquierda del GIF.
-Texto a la izquierda del GIF.
-Texto a la izquierda del GIF.
-Texto a la izquierda del GIF.
-
-Texto a la izquierda del GIF.
+.
 
 <div style="grid grid-colum-2;">
   <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" alt="GIF" style="width: 40%;">
