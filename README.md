@@ -30,10 +30,8 @@
 <br>
 
 ## ¡Conectemos!
-<a href="www.linkedin.com/in/nicolas-sdiez" target="_blank">
-<img src="" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-https://www.cleanpng.com/png-linkedin-icon-linkedin-logo-icon-logo-icon-7396240/
+<a href="www.linkedin.com/in/nicolas-sdiez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
 
 <a href="mailto:ossinsight@pingcap.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
