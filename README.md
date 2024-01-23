@@ -26,15 +26,14 @@
 🔸 📬 Quieres enviarme un [Email](mailto:nicolas.diez1s@gmail.com) ?
 
 
-🔸 ⚡ 
+
 <br>
 
-## ¡Conectemos!
-<a href="www.linkedin.com/in/nicolas-sdiez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+## ¡Conectemos! 🤝
+<a href="https://linkedin.com/in/nicolas-sdiez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="nicolas-sdiez" height="50" width="50" /></a>
 
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<a href="mailto:nicolas.diez1s@gmail.com" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/03/icone-gmail.png" alt=gmail height="50" width="50" />
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
