@@ -7,8 +7,8 @@
 </p>
 
 <div>
-<p align="end">
-  <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" width="30%">
+<p align="center">
+  <img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" width="40%">
 </p>
   <p align="start"> Texto a la izquierda del GIF.
 Texto a la izquierda del GIF.
