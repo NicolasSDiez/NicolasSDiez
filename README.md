@@ -27,6 +27,6 @@ Texto a la izquierda del GIF.
     Texto a la izquierda del GIF Texto a la izquierda del GIF.</p>
 </div>
 
-![GIF](0_IjwqslkWZDHTMK9Y.gif) Texto a la izquierda del GIF.
+![GIF](<img src="0_IjwqslkWZDHTMK9Y.gif" alt="GIF" alt="GIF" style="width: 40%;">) Texto a la izquierda del GIF.
 
 
