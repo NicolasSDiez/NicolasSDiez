@@ -20,7 +20,7 @@
 
 
 
-🔸 🌱 Actualmente estoy aprendiendo Phyton y Redux Toolkit.
+🔸 🌱 Actualmente me estoy especializando en Back-end, profundizando mis conocimientos en Node js, Express, y bases de datos.
 
 
 🔸 📬 Quieres enviarme un [Email](mailto:nicolas.diez1s@gmail.com) ?
