@@ -12,15 +12,15 @@
   
 
 
-🔸 👋 ¡Hola!  Me llamo Nicolás, tengo 31 años. Vivo en Argentina, ciudad de Córdoba. Siempre fui un entusiasta de la tecnología en todas sus formas!
+🔸 👋 ¡Hola!  Me llamo Nicolás, tengo 32 años. Vivo en Argentina, ciudad de Córdoba. Siempre fui un entusiasta de la tecnología y la música en todas sus formas!
 
 
 
-🔸 🫡 Soy Desarrollador Full Stack con capacidad de realizar proyectos web con tecnologías como React, Redux, Javascript, Express, NodeJs, Sequelize, PostgreSql. Me gradué en el bootcamp de Soy Henry.
+🔸 🫡 Soy Desarrollador Full Stack con capacidad de realizar proyectos web completos con tecnologías como React, Redux, Javascript, Express, NodeJs, Sequelize, PostgreSql. 
 
 
 
-🔸 🌱 Actualmente me estoy especializando en Back-end, profundizando mis conocimientos en Node js, Express, y bases de datos.
+🔸 🌱 Actualmente estoy aprendiendo y trabajando con Ruby y Rails.
 
 
 🔸 📬 Quieres enviarme un [Email](mailto:nicolas.diez1s@gmail.com) ?
